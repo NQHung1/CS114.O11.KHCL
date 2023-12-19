@@ -1,2 +1,4 @@
-# CS114.O11.KHCL
-hello
+# CS114.O11.KHCL - Machine Learning
+## Lecture:
+Le Dinh Duy
+Pham Nguyen Truong An
