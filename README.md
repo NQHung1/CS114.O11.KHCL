@@ -3,3 +3,11 @@
 - **PGS.TS. Le Dinh Duy** - duydl@uit.edu.vn
 
 - **ThS. Pham Nguyen Truong An** - truonganpn@uit.edu.vn
+## Members:
+| STT | MSSV | Name | Email |
+|-------|-------|-------|-------|
+| 1 | 21520253 | Nguyen Quoc Hung | 21520253 |
+| 2 |       |       |       |
+| 3 |       |       |       |
+
+
