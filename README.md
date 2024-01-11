@@ -10,6 +10,7 @@
 | 2 |       |       |       |
 | 3 |       |       |       |
 ## FinalProject:
+# Filtering Negative News
 In the swirling tempest of information that bombards us daily, news headlines often act as sirens, drawing our attention with promises of the latest developments. But amidst the cacophony, a disturbing question arises: what happens when these headlines themselves become instruments of violence? This is where a project to classify news headlines based on their violent content holds significant potential.
 
 Firstly, such a project could act as a powerful lens, uncovering the prevalence and patterns of violence across different media outlets. Imagine pinpointing regions where violent headlines cluster, exposing biases in reporting, or tracing the evolution of sensationalized language over time. This granular understanding of the "violence landscape" could inform policy decisions, public discourse, and even media outlets themselves, pushing for a more responsible approach to news presentation.
