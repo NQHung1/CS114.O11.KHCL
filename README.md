@@ -6,8 +6,8 @@
 ## Members:
 | STT | MSSV | Name | Email |
 |-------|-------|-------|-------|
-| 1 | 21520253 | Nguyen Quoc Hung | 21520253@gm.uit.edu.vn |
-| 2 |       |       |       |
+| 1 | 21520253 | Nguyen Quoc Hung | 21520253@gm.uit.edu.vn | 
+| 2 | 21522770 |  Tran Duy Tung   | 21522770@gm.uit.edu.vn    |
 | 3 |       |       |       |
 ## FinalProject:
 # Filtering Negative News
