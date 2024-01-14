@@ -18,12 +18,15 @@ It is simply a project to just understand what would really be considered negati
 Data collection sources:
 
 News links:
+
 -- Scraped from vnexpress and Bao Thanh Nien.
 
 Content
+
 --Input:
 News title: The tiles of the news articles.
 Text: Some first sentences of the paper.
+
 --Output:
 A classification label: either be negative or non-negative.
 
