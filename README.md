@@ -26,7 +26,9 @@ It is simply a project to just understand what would really be considered negati
 *Content
 
 --Input:
+
 News title: The tiles of the news articles.
+
 Text: Some first sentences of the paper.
 
 --Output:
