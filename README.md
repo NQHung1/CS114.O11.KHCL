@@ -8,7 +8,7 @@
 |-------|-------|-------|-------|
 | 1 | 21520253 | Nguyen Quoc Hung | 21520253@gm.uit.edu.vn | 
 | 2 | 21522770 |  Tran Duy Tung   | 21522770@gm.uit.edu.vn    |
-| 3 |       |       |       |
+| 3 |    21520648   |  Nguyen Dinh Minh Chi     |  21520648@gm.uit.edu.vn     |
 ## FinalProject:
 # Filtering Negative News
 In the swirling tempest of information that bombards us daily, news headlines often act as sirens, drawing our attention with promises of the latest developments. But amidst the cacophony, a disturbing question arises: what happens when these headlines themselves become instruments of violence? This is where a project to classify news headlines based on their violent content holds significant potential.
