@@ -19,7 +19,7 @@ It is simply a project to just understand what would really be considered negati
 
 *Data collection sources:
 
-*News links:
+News links:
 
 -- Scraped from vnexpress and Bao Thanh Nien.
 
